@@ -10,7 +10,7 @@ The application analyzes customer demographics, purchasing behavior, website act
 
 ## Live Application
 
-**Deployed Application:** https://your-streamlit-app.streamlit.app
+**Deployed Application:** https://smartcart-ai-shivang.streamlit.app
 
 **API Documentation:** https://ai-ml-industry.onrender.com/docs
 
