@@ -5,7 +5,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 import json
 
-API_URL = "http://fastapi:8000"
+API_URL = "https://ai-ml-industry.onrender.com"
 
 st.set_page_config(page_title="SmartCart Segmentation", page_icon="🛒", layout="wide")
 
